@@ -15,17 +15,3 @@
  
  Dataset link: https://www.kaggle.com/blastchar/telco-customer-churn
  
-------------------------------
-Instructions to run:
-- All notebooks are self-sufficient and there is no dependencies among files/ notebooks.
-- Project can be divided into 4 folders in chronological order:
-  -- /exploratory-data-analysis
-  -- /data-transformation
-  -- /pyspark       # models
-  -- /scikit        # models
-- Run all files in these folders in this order to get better idea about the project.
-- Other than that, no speical instruction is needed.
-
-
-
-
