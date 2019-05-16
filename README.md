@@ -26,13 +26,6 @@ Instructions to run:
 - Run all files in these folders in this order to get better idea about the project.
 - Other than that, no speical instruction is needed.
 
-------------------------------
-Any third party libraries:
-No. All libraries that I have used are the one that were taught in the CS 696 course.
-
-------------------------------
-Any known issues:
-No. All scripts are running fine and haven't encountered any issue as such.
 
 
 
